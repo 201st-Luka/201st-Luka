@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I'm 201st-Luka.
 
-<!--
-**201st-Luka/201st-Luka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm 201st-Luka. I'm 18 years old and studying computer science.   
+I discovered that progamming is my passion when I was 16 years old and got my laptop. I started programming a Discord bot in Python.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### My projects
+
+At the moment I'm writing a program in C for the chemisty students of my university. This program is a [simulator for spectroscopic terms](https://github.com/201st-Luka/SimulatorForSpectroscopicTerms). I put a lot of work into it. 
+I had to understand the chemistry and math behind the process and then I could finally write an inplementation. The simulator is not ready at the moment but hopefully it will be in the future.
+
+At the moment my Discord bot in Python is not in a public repository. Maybe it will be in the future. 
