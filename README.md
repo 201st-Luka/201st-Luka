@@ -40,7 +40,7 @@ At the moment my Discord bot in Python is not in a public repository. Maybe it w
 
 <!--variables-->
 [youtube_shield]: https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white
-[youtube_url]: https://www.youtube.com/@201st-luka
+[youtube_url]: https://www.youtube.com/@201st-Luka
 [discord_shield]: https://img.shields.io/badge/Discord-blue?logo=discord&logoColor=white
 [discord_url]: https://discord.gg/j2PAF9Wru8
 [github_stats]: https://github-readme-stats.vercel.app/api?username=201st-Luka&theme=vision-friendly-dark
