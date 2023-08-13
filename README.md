@@ -1,27 +1,27 @@
 ![profile banner](/images/banner_github.png)
 [![YouTube][youtube_shield]][youtube_url] [![Discord][discord_shield]][discord_url]
 
-### Hi there, I'm 201st-Luka.
+### Hello there, I'm 201st-Luka.
 
-Hi, I'm 201st-Luka. I'm 18 years old and studying computer science.   
+Hi, I'm 201st-Luka. I'm 18 years old and studying computer science at the University of Liège in Belgium.   
 I discovered that progamming is my passion when I was 16 years old and got my laptop. I started programming a Discord bot in Python.  
 
 ---
 
 #### My projects
 
-At the moment I'm writing a program in C for the chemisty students of my university. This program is a [simulator for spectroscopic terms](https://github.com/201st-Luka/SimulatorForSpectroscopicTerms). I put a lot of work into it. 
-I had to understand the chemistry and math behind the process and then I could finally write an inplementation. The simulator is not ready at the moment but hopefully it will be in the future.
+At the moment I am developing a ClashOfClans Discord bot to manage and automate information and help me with statistics about the activity of my clan's members. This bot is called
+[HeadhunterBot](https://github.com/201st-Luka/HeadhunterBot) and is still in developement and not ready for use yet. 
 
-At the moment my Discord bot in Python is not in a public repository. Maybe it will be in the future. 
+This Discord bot is also using my own ClashOfClans API wrapper ([PyClasher](https://github.com/201st-Luka/PyClasher)) which will be released soon on [PyPi.org](https://pypi.org/).
 
 ---
 
 #### My goals
 
-- Have good grades in my studies.
-- Learn some other languages like Java, C#, ...
-- Become a good software developer.
+- Releasing pyclasher v1.0.0 on PyPi
+- Hosting the HeadhunterBot
+- Doing some other cool stuff
 
 ---
 
