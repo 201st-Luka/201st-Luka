@@ -15,6 +15,10 @@ At the moment I am developing a ClashOfClans Discord bot to manage and automate 
 
 This Discord bot is also using my own ClashOfClans API wrapper ([PyClasher](https://github.com/201st-Luka/PyClasher)) which will be released soon on [PyPi.org](https://pypi.org/).
 
+An other project is the [simulator for spectroscopic terms](https://github.com/201st-Luka/Sim4SpecTerms) (for the Chemistry students of my university). The project was firstly
+written in C but had no graphical user interface (see [SimulatorForSpectroscopicTerms-C](https://github.com/201st-Luka/SimulatorForSpectroscopicTerms-C)). The command line code
+works on Ubuntu but writing this project with C has no future. That is why I am currently re-writing theproject with Rust. This allows me to write OS independent code (I hope so). 
+
 ---
 
 #### My goals
@@ -22,6 +26,7 @@ This Discord bot is also using my own ClashOfClans API wrapper ([PyClasher](http
 - Releasing pyclasher v1.0.0 on PyPi
 - Hosting the HeadhunterBot
 - Doing some other cool stuff
+- Releasing Sim4SpecTerms before october
 
 ---
 
