@@ -3,7 +3,7 @@
 
 ### Hello there, I'm 201st-Luka.
 
-Hi, I'm 201st-Luka. I'm 18 years old and studying computer science at the University of Liège in Belgium.   
+Hi, I'm 201st-Luka. I'm 19 years old and studying computer science at the University of Liège in Belgium (2nd Bachelor).   
 I discovered that progamming is my passion when I was 16 years old and got my laptop. I started programming a Discord bot in Python.  
 
 ---
