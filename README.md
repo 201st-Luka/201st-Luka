@@ -13,21 +13,22 @@ I discovered that progamming is my passion when I was 16 years old and got my la
 At the moment I am developing a ClashOfClans Discord bot to manage and automate information and help me with statistics about the activity of my clan's members. This bot is called
 [HeadhunterBot](https://github.com/201st-Luka/HeadhunterBot) and is still in developement and not ready for use yet. 
 
-This Discord bot is also using my own ClashOfClans API wrapper ([PyClasher](https://github.com/201st-Luka/PyClasher)) which will be released on [PyPi.org](https://pypi.org/) soon
-(after my exams).
+This Discord bot is also using my own ClashOfClans API wrapper ([PyClasher](https://github.com/201st-Luka/PyClasher)) which is availible on [PyPi.org](https://pypi.org/).
 
 An other project is the [simulator for spectroscopic terms](https://github.com/201st-Luka/Sim4SpecTerms) (for the Chemistry students of my university). The project was firstly
-written in C but had no graphical user interface (see [SimulatorForSpectroscopicTerms-C](https://github.com/201st-Luka/SimulatorForSpectroscopicTerms-C)). The command line code
-works on Ubuntu but writing this project with C has no future. That is why I am currently re-writing the project with Rust. This allows me to write OS independent code (I hope so). 
+written in C but had no graphical user interface (see [SimulatorForSpectroscopicTerms-C](https://github.com/201st-Luka/SimulatorForSpectroscopicTerms-C)). Earlier, this project used 
+the old C source code, which I wrote, as a C Python extension. But now, the app uses a pure Python implementation and is even faster!
+
+After random people joined my private Minecraft server, I started developing a Discord bot to help me keeping the whitelist up to date but this project is at a very eraly state and 
+not even working correctly. 
 
 ---
 
 #### My goals
 
-- Releasing pyclasher v1.0.0 on PyPi
+- Keeping pyclasher up to date
 - Hosting the HeadhunterBot
 - Doing some other cool stuff
-- Releasing Sim4SpecTerms before october
 
 ---
 
