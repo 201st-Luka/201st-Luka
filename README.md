@@ -3,7 +3,7 @@
 
 ### Hello there, I'm 201st-Luka.
 
-Hi, I'm 201st-Luka. I'm 19 years old and studying computer science at the University of Liège in Belgium (2nd Bachelor).   
+Hi, I'm 201st-Luka. I'm 20 years old and studying computer science at the University of Liège in Belgium (5rd Bachelor).   
 I discovered that progamming is my passion when I was 16 years old and got my laptop. I started programming a Discord bot in Python.  
 
 ---
@@ -15,12 +15,9 @@ At the moment I am developing a ClashOfClans Discord bot to manage and automate 
 
 This Discord bot is also using my own ClashOfClans API wrapper ([PyClasher](https://github.com/201st-Luka/PyClasher)) which is availible on [PyPi.org](https://pypi.org/).
 
-An other project is the [simulator for spectroscopic terms](https://github.com/201st-Luka/Sim4SpecTerms) (for the Chemistry students of my university). The project was firstly
-written in C but had no graphical user interface (see [SimulatorForSpectroscopicTerms-C](https://github.com/201st-Luka/SimulatorForSpectroscopicTerms-C)). Earlier, this project used 
-the old C source code, which I wrote, as a C Python extension. But now, the app uses a pure Python implementation and is even faster!
+I'm also improving the [chimistry project for the chemistry student of the University of Liège](https://github.com/201st-Luka/Sim4SpecTerms).
 
-After random people joined my private Minecraft server, I started developing a Discord bot to help me keeping the whitelist up to date but this project is at a very eraly state and 
-not even working correctly. 
+The most recent project I have started is the [ModularMap](https://github.com/201st-Luka/ModularMap) Minecraft mod. This mod should become a map mod for more technical Minecraft players.
 
 ---
 
@@ -28,6 +25,7 @@ not even working correctly.
 
 - Keeping pyclasher up to date
 - Hosting the HeadhunterBot
+- Learning how to build a web application using ASP.NET Core and Blazor
 - Doing some other cool stuff
 
 ---
