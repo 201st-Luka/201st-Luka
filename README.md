@@ -1,9 +1,9 @@
 ![profile banner](/images/banner_github.png)
-[![YouTube][youtube_shield]][youtube_url] [![Discord][discord_shield]][discord_url]
+[![YouTube][youtube_shield]][youtube_url]
 
 ### Hello there, I'm 201st-Luka.
 
-Hi, I'm 201st-Luka. I'm 20 years old and studying computer science at the University of Liège in Belgium (5rd Bachelor).   
+Hi, I'm 201st-Luka. I'm 20 years old and studying computer science at the University of Liège in Belgium (3rd Bachelor).   
 I discovered that progamming is my passion when I was 16 years old and got my laptop. I started programming a Discord bot in Python.  
 
 ---
@@ -13,7 +13,7 @@ I discovered that progamming is my passion when I was 16 years old and got my la
 At the moment I am developing a ClashOfClans Discord bot to manage and automate information and help me with statistics about the activity of my clan's members. This bot is called
 [HeadhunterBot](https://github.com/201st-Luka/HeadhunterBot) and is still in developement and not ready for use yet. 
 
-This Discord bot is also using my own ClashOfClans API wrapper ([PyClasher](https://github.com/201st-Luka/PyClasher)) which is availible on [PyPi.org](https://pypi.org/).
+This Discord bot is also using my own ClashOfClans API wrapper ([PyClasher](https://github.com/201st-Luka/PyClasher)) which is availible on [PyPi.org](https://pypi.org/project/pyclasher/).
 
 I'm also improving the [chimistry project for the chemistry student of the University of Liège](https://github.com/201st-Luka/Sim4SpecTerms).
 
@@ -46,8 +46,6 @@ The most recent project I have started is the [ModularMap](https://github.com/20
 <!--variables-->
 [youtube_shield]: https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white
 [youtube_url]: https://www.youtube.com/@201st-Luka
-[discord_shield]: https://img.shields.io/badge/Discord-blue?logo=discord&logoColor=white
-[discord_url]: https://discord.gg/j2PAF9Wru8
 [github_stats]: https://github-readme-stats.vercel.app/api?username=201st-Luka&theme=vision-friendly-dark
 [github_stats_url]: https://github.com/anuraghazra/github-readme-stats
 [github_streak]: http://github-readme-streak-stats.herokuapp.com?user=201st-Luka&theme=vision-friendly-dark
